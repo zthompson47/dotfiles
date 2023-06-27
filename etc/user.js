@@ -6,7 +6,6 @@ user_pref("media.peerconnection.enabled", false);
 
 /* Tune up smooth-scrolling
  * https://www.reddit.com/r/firefox/comments/bvfqtp/these_are_the_smooth_scrolling_tweaks_i_play/
-*/
 user_pref("general.smoothScroll.mouseWheel", true);
 user_pref("general.smoothScroll.mouseWheel.durationMaxMS", 600);
 user_pref("general.smoothScroll.mouseWheel.durationMinMS", 400);
@@ -16,6 +15,7 @@ user_pref("general.smoothScroll.stopDecelerationWeighting", 0.8);
 user_pref("mousewheel.acceleration.factor", 8);
 user_pref("mousewheel.acceleration.start", 2);
 user_pref("mousewheel.min_line_scroll_amount", 2);
+*/
 
 /* MS Edge smooth scrolling
 user_pref("general.smoothScroll.msdPhysics.continuousMotionMaxDeltaMS", 250);
